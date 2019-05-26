@@ -1,0 +1,9 @@
+1 - Criar o Gemfile
+2 - Para buscar as dependencias do projeto via terminal e na pasta do projeto utilizar o comando
+"Bundle install"
+3 - Iniciar o projeto rspec (terminal: rspec --init)
+4 - Arquivo spec_helper:
+    - Integrar rspec ao capybara (Linha 1 e 3 do arquivo spec_helper)
+    - Adicionar dsl capybara ao rspec (Linha 15)
+    - Configurar o driver do capybara (Linha 18 a 20)
+5 - Criar os scripts de teste na pasta spec
