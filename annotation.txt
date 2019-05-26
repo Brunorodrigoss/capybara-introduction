@@ -7,3 +7,7 @@
     - Adicionar dsl capybara ao rspec (Linha 15)
     - Configurar o driver do capybara (Linha 18 a 20)
 5 - Criar os scripts de teste na pasta spec
+6 - Para executar os testes utilizar o seguinte comando no terminal: "rspec -fd"
+---
+Se não especificar o selenium com o _chrome(linha 19) o capybara entende que utilizará o default que 
+é o firefox.
